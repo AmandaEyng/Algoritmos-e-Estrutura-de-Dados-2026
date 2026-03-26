@@ -1,4 +1,4 @@
-//adicionar pacote
+package modelo;
 
 public class ListaDupla<T> {
 
