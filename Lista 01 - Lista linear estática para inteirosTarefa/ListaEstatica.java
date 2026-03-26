@@ -1,4 +1,4 @@
-package C;
+//inserir pacote
 
 public class ListaEstatica {
 
