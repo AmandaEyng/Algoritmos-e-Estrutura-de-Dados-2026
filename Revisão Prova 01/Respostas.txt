@@ -1,0 +1,21 @@
+== Questão 1 ==
+1280
+
+== Questão 2 ==
+3
+
+== Questão 3 ==
+O comprimento do vetor é de 20,
+foi chamado o redimensionar e ao excluir o conteúdo o tamanho da lista não diminui de tamanho.
+
+== Questão 4 ==
+10,40,10,20,30,50 (se fosse a estática seria o contrário)
+
+== Questão 5 ==
+retorna o menor valor que existe na lista
+
+== Questão 6 ==
+valor, primeiro, null, novo, novo
+
+== Questão 7 ==
+D
